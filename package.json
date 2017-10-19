@@ -1,0 +1,15 @@
+{
+  "name": "censore-formater",
+  "version": "1.0.0",
+  "description": "Цензурить 20+ матерных слов ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "alexyorke <yorkbc2@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
