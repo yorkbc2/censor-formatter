@@ -1,5 +1,5 @@
 {
-  "name": "censore-formater",
+  "name": "censore-formatter",
   "version": "1.0.0",
   "description": "Цензурить 20+ матерных слов ",
   "main": "index.js",
